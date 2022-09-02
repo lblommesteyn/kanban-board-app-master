@@ -57,18 +57,18 @@ See [docs/gallery.md](https://github.com/shellyln/kanban-board-app/blob/master/d
 
 ## Getting started
 
-1. Go [https://shellyln.github.io/knbn/#/](https://shellyln.github.io/knbn/#/)
+1. Go [https://lblommesteyn.github.io/knbn/#/](https://lblommesteyn.github.io/knbn/#/)
 1. Create  [IBM Cloud Lite account](https://www.ibm.com/cloud/free/) to get managed CouchDB server ([IBM Cloudant®](https://www.ibm.com/cloud/cloudant))
     * [Sign up for IBM Cloud](https://cloud.ibm.com/registration)
     * [Get Started With Cloudant in IBM Cloud](https://developer.ibm.com/clouddataservices/docs/cloudant/get-started/)
-1. Setup remote server configurations on [Settings view](https://shellyln.github.io/knbn/#/config/)
+1. Setup remote server configurations on [Settings view](https://lblommesteyn.github.io/knbn/#/config/)
 
 
 
 ## Deploying to your site
 
 ```sh
-git clone https://github.com/shellyln/kanban-board-app.git
+git clone https://github.com/lblommesteyn/kanban-board-app.git
 cd kanban-board-app
 npm ci
 
